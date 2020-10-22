@@ -1,4 +1,4 @@
-# Python Package Template
+# Blender Utils
 
-The PyPackage_template package containing a skeleton Python package project to be used as a template for starting development of any type of Python Package destined for upload to PyPI.
+Package with functions to clean and prepare raster and vector layers for their use in Blender and generation of rendered visualisations.
 
